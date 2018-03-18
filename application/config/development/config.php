@@ -552,6 +552,6 @@ define('JQUERY', JS . 'jquery-3.2.1.min.js');
  */
 define('ORGANISATION', 'Joomelaar');
 define('AUTHOR', 'G.Edelaar');
-define('VERSION', '2.01');
+define('VERSION', '2.02');
 define('LOGO', IMAGES . '/logo.png');
 
